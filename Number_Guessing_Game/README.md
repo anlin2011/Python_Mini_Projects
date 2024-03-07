@@ -27,7 +27,7 @@ python number_guessing_game.py
 * After each round, you'll have the option to play again or exit the game.
 
 ## Here's an amazing depiction of what the game's output might look like:
-![Output Image](Number_Guessing_Game/Output_Screenshot.png)
+![Output Image](Output_Screenshot.png)
 
 ## Acknowledgements
 * This project is inspired by various number guessing games and Python tutorials available online.
