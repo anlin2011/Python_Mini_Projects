@@ -19,5 +19,5 @@ rock_paper_scissors.py: The Python script containing the game's electrifying cod
 ## Requirements
 Python 3.x: Prepare for the epic battle by ensuring you have Python installed on your device.
 ## Rock, Paper, Scissors Game Output
-![Game Output](Rock_Paper_Scissor_Game/Screenshot.png)
+![Game Output](Screenshot.png)
 ## *Happy Gaming and May the Best Strategist Prevail!* 🎮💥
